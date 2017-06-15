@@ -1,0 +1,88 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+body{
+  width: 100% !important;
+  height: auto;
+  text-align: center !important;
+}
+
+#middle-sec{
+  width: 100% !important;
+  margin-top: 50px !important;
+}
+img{
+text-align: center !important;
+}
+.btn{
+  margin-top: -10px !important;
+  margin-bottom: 40px !important;
+  letter-spacing: 1px;
+  word-spacing: 2px;
+}
+p{
+  text-align: center;
+ line-height: 20px;
+ letter-spacing: 0.5px;
+ word-wrap: 5px;
+ padding: 30px;
+}
+#para1{
+  padding: 20px;
+
+}
+#rows{
+  margin-top: 30px !important;
+}
+h2{
+  padding-top: 30px;
+  line-height: 45px;
+  word-spacing: 1px;
+  letter-spacing: 0.5px;
+  font-family: cursive;
+}
+li{
+  text-decoration: none;
+
+}
+a{
+    list-style-type: none;
+}
+a:hover{
+  text-decoration: none;
+}
+
+footer{
+  margin-top: 10px;
+}
+.navbar-brand{
+background-image: url(../images/logo.png);
+background-position: center;
+background-repeat: no-repeat;
+background-size: 30px 30px;
+width: 30px;
+}
+
+#img1{
+  width: 300px;
+  height: 300px;
+  margin-left: 100px !important;
+}
+#facebook{
+  margin-top: 80px;
+}
+.lead{
+  line-height: 30px;
+  letter-spacing: 0.8px;
+  word-spacing: 2px;
+  font-family: sans-serif;
+  font-size: 15px;
+  font-style: italic;
+}
+.img-responsive{
+  margin-top: 110px;
+}
+#apple img{
+  margin-left:100px;
+}
